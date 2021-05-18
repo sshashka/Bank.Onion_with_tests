@@ -1,0 +1,12 @@
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/bin/Debug/netstandard2.1/Bank.Orchestrators.deps.json
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/bin/Debug/netstandard2.1/Bank.Orchestrators.dll
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/bin/Debug/netstandard2.1/Bank.Orchestrators.pdb
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/bin/Debug/netstandard2.1/Bank.Core.dll
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/bin/Debug/netstandard2.1/Bank.Core.pdb
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/obj/Debug/netstandard2.1/Bank.Orchestrators.csprojAssemblyReference.cache
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/obj/Debug/netstandard2.1/Bank.Orchestrators.AssemblyInfoInputs.cache
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/obj/Debug/netstandard2.1/Bank.Orchestrators.AssemblyInfo.cs
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/obj/Debug/netstandard2.1/Bank.Orchestrators.csproj.CoreCompileInputs.cache
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/obj/Debug/netstandard2.1/Bank.Orchestrators.csproj.CopyComplete
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/obj/Debug/netstandard2.1/Bank.Orchestrators.dll
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/obj/Debug/netstandard2.1/Bank.Orchestrators.pdb

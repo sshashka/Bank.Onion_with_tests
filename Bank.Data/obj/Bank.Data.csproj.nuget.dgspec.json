@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/Bank.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/Bank.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/Bank.Core.csproj",
+        "projectName": "Bank.Core",
+        "projectPath": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/Bank.Core.csproj",
+        "packagesPath": "/Users/sasavasilenko/.nuget/packages/",
+        "outputPath": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sasavasilenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/Bank.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/Bank.Data.csproj",
+        "projectName": "Bank.Data",
+        "projectPath": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/Bank.Data.csproj",
+        "packagesPath": "/Users/sasavasilenko/.nuget/packages/",
+        "outputPath": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sasavasilenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/Bank.Core.csproj": {
+                "projectPath": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/Bank.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

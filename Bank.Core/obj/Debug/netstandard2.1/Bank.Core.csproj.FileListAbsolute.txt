@@ -1,0 +1,9 @@
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/bin/Debug/netstandard2.1/Bank.Core.deps.json
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/bin/Debug/netstandard2.1/Bank.Core.dll
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/bin/Debug/netstandard2.1/Bank.Core.pdb
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/obj/Debug/netstandard2.1/Bank.Core.csprojAssemblyReference.cache
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/obj/Debug/netstandard2.1/Bank.Core.AssemblyInfoInputs.cache
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/obj/Debug/netstandard2.1/Bank.Core.AssemblyInfo.cs
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/obj/Debug/netstandard2.1/Bank.Core.csproj.CoreCompileInputs.cache
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/obj/Debug/netstandard2.1/Bank.Core.dll
+/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/obj/Debug/netstandard2.1/Bank.Core.pdb

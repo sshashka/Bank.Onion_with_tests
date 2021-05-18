@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Bank.Core\Bank.Core.csproj" />
+      <ProjectReference Include="..\Bank.Data\Bank.Data.csproj" />
+      <ProjectReference Include="..\Bank.Orchestrators\Bank.Orchestrators.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="10.1.1" />
+      <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="5.0.6" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.6" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.4" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.1.4" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.1.4" />
+    </ItemGroup>
+
+</Project>
