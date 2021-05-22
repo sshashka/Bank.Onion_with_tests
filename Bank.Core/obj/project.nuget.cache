@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zIFpjnb6e3Y4cLPl3+FULNA3yHg2BKzka86rYNaDMf55L2vS/OGjFWpcFGmn3hYIc+/U0KBGeTcDx2jjmV0eEA==",
+  "dgSpecHash": "bKppeRdFEk1aMPotp9o+6c8C7UYXpoXbO/CjhKZHpihNE2gWoLPwAmsDRzkVLX5sgdk20uk43QATdddDKh7pnQ==",
   "success": true,
-  "projectFilePath": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/Bank.Core.csproj",
+  "projectFilePath": "/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Core/Bank.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,12 +1,24 @@
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.csprojAssemblyReference.cache
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.AssemblyInfoInputs.cache
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.AssemblyInfo.cs
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.csproj.CoreCompileInputs.cache
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/bin/Debug/netstandard2.1/Bank.Data.deps.json
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/bin/Debug/netstandard2.1/Bank.Data.dll
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/bin/Debug/netstandard2.1/Bank.Data.pdb
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/bin/Debug/netstandard2.1/Bank.Core.dll
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/bin/Debug/netstandard2.1/Bank.Core.pdb
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.csproj.CopyComplete
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.dll
-/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.pdb
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/bin/Debug/netstandard2.1/Bank.Data.deps.json
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/bin/Debug/netstandard2.1/Bank.Data.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/bin/Debug/netstandard2.1/Bank.Data.pdb
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/bin/Debug/netstandard2.1/Bank.Core.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/bin/Debug/netstandard2.1/Bank.Core.pdb
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.csprojAssemblyReference.cache
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.AssemblyInfoInputs.cache
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.AssemblyInfo.cs
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.csproj.CoreCompileInputs.cache
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.csproj.CopyComplete
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.pdb
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/bin/Debug/netstandard2.1/Bank.Data.deps.json
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/bin/Debug/netstandard2.1/Bank.Data.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/bin/Debug/netstandard2.1/Bank.Data.pdb
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/bin/Debug/netstandard2.1/Bank.Core.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/bin/Debug/netstandard2.1/Bank.Core.pdb
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.csprojAssemblyReference.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.AssemblyInfoInputs.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.AssemblyInfo.cs
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.csproj.CoreCompileInputs.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.csproj.CopyComplete
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/obj/Debug/netstandard2.1/Bank.Data.pdb

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/Bank.Core.csproj",
+      "projectUniqueName": "/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Core/Bank.Core.csproj",
       "projectName": "Bank.Core",
-      "projectPath": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/Bank.Core.csproj",
+      "projectPath": "/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Core/Bank.Core.csproj",
       "packagesPath": "/Users/sasavasilenko/.nuget/packages/",
-      "outputPath": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Core/obj/",
+      "outputPath": "/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sasavasilenko/.nuget/NuGet/NuGet.Config"

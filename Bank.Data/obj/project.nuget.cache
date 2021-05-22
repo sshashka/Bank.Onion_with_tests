@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BDl4oNahA196AMVvg+h933XH/42CkqVaB0TKLJ33tVn7TltubHEmDRMSilh+ISWBDATUuSvmWzaqzkKSo5cZhQ==",
+  "dgSpecHash": "xKJ2U4tq/QqTAXS2xhV5Njl3RF8w+0hQ2aMgdRgjF3oAOtkVKcw/P/2W8SrSr1evQZpSRoZyygqsPdL0vruAaw==",
   "success": true,
-  "projectFilePath": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Data/Bank.Data.csproj",
+  "projectFilePath": "/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Data/Bank.Data.csproj",
   "expectedPackageFiles": [
     "/Users/sasavasilenko/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/sasavasilenko/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
@@ -10,6 +10,7 @@
     "/Users/sasavasilenko/.nuget/packages/microsoft.entityframeworkcore/5.0.6/microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
     "/Users/sasavasilenko/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.6/microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512",
     "/Users/sasavasilenko/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.6/microsoft.entityframeworkcore.analyzers.5.0.6.nupkg.sha512",
+    "/Users/sasavasilenko/.nuget/packages/microsoft.entityframeworkcore.inmemory/5.0.6/microsoft.entityframeworkcore.inmemory.5.0.6.nupkg.sha512",
     "/Users/sasavasilenko/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.6/microsoft.entityframeworkcore.relational.5.0.6.nupkg.sha512",
     "/Users/sasavasilenko/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "/Users/sasavasilenko/.nuget/packages/microsoft.extensions.caching.memory/5.0.0/microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
