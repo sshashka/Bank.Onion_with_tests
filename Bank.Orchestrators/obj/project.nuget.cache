@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "twmP6tjxlwHDo5+yBuKwfRuk0hyJxCtBUcun1SzefgM0CFTsZFM8I+Jqs7u0kBmnr/HCqvhi9Q4cona0gYls6Q==",
+  "dgSpecHash": "1KNWNF/NnpI+SZ9XCm7h+UVc7GgLXjX5WDPfauRIMjCqVmKTXON+Z8XNo+JqcRoT3A55LF5pp1S5lMsEuGyfNQ==",
   "success": true,
-  "projectFilePath": "/Users/sasavasilenko/RiderProjects/Bank.Onion_with_tests/Bank.Orchestrators/Bank.Orchestrators.csproj",
+  "projectFilePath": "/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Orchestrators/Bank.Orchestrators.csproj",
   "expectedPackageFiles": [
     "/Users/sasavasilenko/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/sasavasilenko/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",

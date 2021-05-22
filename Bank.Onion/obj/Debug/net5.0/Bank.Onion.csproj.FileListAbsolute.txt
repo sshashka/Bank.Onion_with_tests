@@ -1,0 +1,87 @@
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.csprojAssemblyReference.cache
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.AssemblyInfoInputs.cache
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.AssemblyInfo.cs
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.csproj.CoreCompileInputs.cache
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.MvcApplicationPartsAssemblyInfo.cs
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.MvcApplicationPartsAssemblyInfo.cache
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/appsettings.Development.json
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/appsettings.json
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Onion.deps.json
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Onion.runtimeconfig.json
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Onion.runtimeconfig.dev.json
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Onion.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/ref/Bank.Onion.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Onion.pdb
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/AutoMapper.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Npgsql.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Core.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Data.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Orchestrators.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Core.pdb
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Orchestrators.pdb
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/bin/Debug/net5.0/Bank.Data.pdb
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/staticwebassets/Bank.Onion.StaticWebAssets.Manifest.cache
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/staticwebassets/Bank.Onion.StaticWebAssets.xml
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/scopedcss/bundle/Bank.Onion.styles.css
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.RazorTargetAssemblyInfo.cache
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.csproj.CopyComplete
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/ref/Bank.Onion.dll
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.pdb
+/Users/sasavasilenko/Projects/Bank.Onion/Bank.Onion/obj/Debug/net5.0/Bank.Onion.genruntimeconfig.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/appsettings.Development.json
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/appsettings.json
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Onion.deps.json
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Onion.runtimeconfig.json
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Onion.runtimeconfig.dev.json
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Onion.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/ref/Bank.Onion.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Onion.pdb
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/AutoMapper.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Npgsql.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Core.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Data.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Orchestrators.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Core.pdb
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Orchestrators.pdb
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Bank.Data.pdb
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.csprojAssemblyReference.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.AssemblyInfoInputs.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.AssemblyInfo.cs
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.csproj.CoreCompileInputs.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.MvcApplicationPartsAssemblyInfo.cs
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.MvcApplicationPartsAssemblyInfo.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/staticwebassets/Bank.Onion.StaticWebAssets.Manifest.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/staticwebassets/Bank.Onion.StaticWebAssets.xml
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/scopedcss/bundle/Bank.Onion.styles.css
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.RazorTargetAssemblyInfo.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.csproj.CopyComplete
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/ref/Bank.Onion.dll
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.pdb
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/obj/Debug/net5.0/Bank.Onion.genruntimeconfig.cache
+/Users/sasavasilenko/Projects/Bank.Onion 20.42.54/Bank.Onion/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
